@@ -9,13 +9,9 @@ client.on("guildMemberAdd", member => {
 **
 سلام عليكم 
 
-نظام انفايت جديد 
+هذي دعوة موجهة ل سموك الراقي
 
-7 invites ===> 20k credits :probot: 
-
-15 invites ===> 38k credits :probot:
-
-20 invites ===> 50k credits :probot: 
+الرجاء الدخول للسيرفر وشكرا 
 
                                [ https://discord.gg/ZmmsvYp ] 
 الدعووة خاصة لك ... [ ${member}  ]
