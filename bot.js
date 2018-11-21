@@ -8,7 +8,15 @@ client.on("guildMemberAdd", member => {
   return channel.send(` 
 **
 سلام عليكم 
-لو سمحت ممكن تدخل سيرفرى
+
+نظام انفايت جديد 
+
+7 invites ===> 20k credits :probot: 
+
+15 invites ===> 38k credits :probot:
+
+20 invites ===> 50k credits :probot: 
+
                                [ https://discord.gg/ZmmsvYp ] 
 الدعووة خاصة لك ... [ ${member}  ]
 **`) 
