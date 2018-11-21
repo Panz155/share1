@@ -6,7 +6,7 @@ console.log("Welcome Again !");
  client.on("guildMemberRemove", member => {
   member.createDM().then(function (channel) {
 
-
+    {
 
 https://discord.gg/ZmmsvYp
 joined info-selfie
@@ -21,15 +21,15 @@ client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(
 
+    }
 
-
-
-
+    {
+    
 https://discord.gg/ZmmsvYp
 joined info-selfie
 ! Selfie.
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **) 
 }).catch(console.error)
-
+}
 client.login(process.env.BOT_TOKEN);
