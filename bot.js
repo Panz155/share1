@@ -8,6 +8,7 @@ console.log("Welcome Again !");
 
 
 رابط السيرفر
+https://discord.gg/ZmmsvYp
 joined info-selfie
 ! Selfie.
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
