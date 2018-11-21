@@ -7,7 +7,7 @@ console.log("Welcome Again !");
   member.createDM().then(function (channel) {
 
 
-رابط السيرفر
+
 https://discord.gg/ZmmsvYp
 joined info-selfie
 ! Selfie.
@@ -24,7 +24,7 @@ client.on("guildMemberAdd", member => {
 
 
 
-رابط السيرفر
+
 https://discord.gg/ZmmsvYp
 joined info-selfie
 ! Selfie.
